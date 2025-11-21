@@ -1,8 +1,3 @@
-# PROJET PUISSANCE 4
-# Binôme : Paul
-# - Fievet Thibaud 
-# - linktevoet Paul
-
 def creer_grille():
     """
     Crée la grille (6 lignes, 7 colonnes).
@@ -178,3 +173,4 @@ def jouer():
     return "Egalité"
 
 jouer()
+
