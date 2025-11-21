@@ -1,12 +1,12 @@
 # 🔴 Connect 4 (Puissance 4) - The Origin Story
 
-> **⚠️ Context:** This repository is a time capsule. It contains the code from my very first steps into programming during my high school years (11th Grade / Première) in the NSI (numerique et sciences informatiques) specialization.
+> **⚠️ Context:** This repository is a time capsule. It contains the code from my very first steps into programming during my high school years (11th Grade / Première) in the NSI (numerique et sciences informatiques) specialization. **This project was realized as a duo effort.**
 
 ## 💭 Why this project is here
 
 It was important for me to share this project exactly as it was.
 
-I have deliberately chosen to keep this **original version** untouched to serve as a baseline. It shows where I started, using the logic and tools I understood at the time (basic loops, lists, and procedural programming).
+I have deliberately chosen to keep this **original version** untouched to serve as a baseline. It shows where I started, using the logic and tools we understood at the time (basic loops, lists, and procedural programming).
 
 ## 🔜 What's Next
 
