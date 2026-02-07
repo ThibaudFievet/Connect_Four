@@ -2,7 +2,7 @@
 
 > **Context:** This repository contains the code from my very first steps into programming during my high school years (11th Grade / Première) in the NSI (numerique et sciences informatiques) specialization. **This project was realized as a duo effort.**
 
-## 💭 Why this project is here
+## Why this project is here
 
 It was important for me to share this project exactly as it was.
 
