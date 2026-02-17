@@ -1,5 +1,7 @@
 # Connect 4 (Puissance 4)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 > **Context:** This repository contains the code from my very first steps into programming during my high school years (11th Grade / Première) in the NSI (numerique et sciences informatiques) specialization. **This project was realized as a duo effort.**
 
 ## Why this project is here
